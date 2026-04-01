@@ -38,6 +38,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelvsilva7&&theme=tokyonight" alt="miguelvsilva7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelvsilva7-wq&&theme=tokyonight" alt="miguelvsilva7-wq" /></p>
 
-![Snake animation](https://github.com/miguelvsilva7/miguelvsilva7/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/miguelvsilva7-wq/miguelvsilva7-wq/blob/output/github-contribution-grid-snake-dark.svg)
