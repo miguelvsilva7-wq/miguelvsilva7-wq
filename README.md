@@ -35,17 +35,14 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<!--
-**miguelvsilva7-wq/miguelvsilva7-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/miguelvsilva7i">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/miguelvsilva7=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?miguelvsilva7 aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+
+![Snake animation](https://github.com//miguelvsilva7/blob/output/github-contribution-grid-snake.svg)
