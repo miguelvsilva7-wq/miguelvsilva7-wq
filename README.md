@@ -37,12 +37,7 @@
 
 
 
-<div>
-<a href="https://github.com/miguelvsilva7i">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/miguelvsilva7=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?miguelvsilva7 aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelvsilva7&&theme=tokyonight" alt="miguelvsilva7" /></p>
 
-
-![Snake animation](https://github.com//miguelvsilva7/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/miguelvsilva7/miguelvsilva7/blob/output/github-contribution-grid-snake-dark.svg)
