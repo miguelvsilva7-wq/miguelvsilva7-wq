@@ -5,10 +5,9 @@
 - 🔭 Atualmente estou estudando
 - 🌱 Atualmente estou aprendendo desenvolvimento de sistema
 - 👯 Estou procurando colaborar em projetos de front/back .
-- 🤔 Estou procurando ajuda com ...
 
 - 📫 Como entrar em contato comigo: ...14 991814624
-- 😄 Pronomes: ...hi/him
+- 😄 Pronomes: ...he/him
 - ⚡ Curiosidade: ...pato
 
 
